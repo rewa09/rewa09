@@ -1,0 +1,13 @@
+React:
+1)Jsx-html element in render method
+2)React Fragment:
+   to avoid creation of extra div while inspecting,react fragment is used.
+   <React.Fragment></React.Fragment>
+3)The value which we want or which is extracted from javascript is given by {}.
+4)Template literals:
+   use bactic and then ${}
+   i.e {`${}`}
+5)ContentEditable attribute:By using this we can edit content on UI
+  usage:<h1 contentEditable="true"></h1>
+6) To import all functions and variable from one file use "* as ___(any name in blank space)".
+7)if default is used once for exporting then other time while exporting default is not used
